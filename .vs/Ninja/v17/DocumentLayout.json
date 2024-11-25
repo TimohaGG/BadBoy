@@ -1,0 +1,131 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Unity\\Projects\\Ninja\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD0A3A54-5668-4890-1B1F-3A207E40D7EE}|Assembly-CSharp.csproj|G:\\Unity\\Projects\\Ninja\\assets\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD0A3A54-5668-4890-1B1F-3A207E40D7EE}|Assembly-CSharp.csproj|solutionrelative:assets\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD0A3A54-5668-4890-1B1F-3A207E40D7EE}|Assembly-CSharp.csproj|G:\\Unity\\Projects\\Ninja\\assets\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD0A3A54-5668-4890-1B1F-3A207E40D7EE}|Assembly-CSharp.csproj|solutionrelative:assets\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD0A3A54-5668-4890-1B1F-3A207E40D7EE}|Assembly-CSharp.csproj|g:\\unity\\projects\\ninja\\assets\\medkitpref.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD0A3A54-5668-4890-1B1F-3A207E40D7EE}|Assembly-CSharp.csproj|solutionrelative:assets\\medkitpref.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD0A3A54-5668-4890-1B1F-3A207E40D7EE}|Assembly-CSharp.csproj|G:\\Unity\\Projects\\Ninja\\assets\\enemyspawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD0A3A54-5668-4890-1B1F-3A207E40D7EE}|Assembly-CSharp.csproj|solutionrelative:assets\\enemyspawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD0A3A54-5668-4890-1B1F-3A207E40D7EE}|Assembly-CSharp.csproj|G:\\Unity\\Projects\\Ninja\\assets\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD0A3A54-5668-4890-1B1F-3A207E40D7EE}|Assembly-CSharp.csproj|solutionrelative:assets\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD0A3A54-5668-4890-1B1F-3A207E40D7EE}|Assembly-CSharp.csproj|G:\\Unity\\Projects\\Ninja\\assets\\camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD0A3A54-5668-4890-1B1F-3A207E40D7EE}|Assembly-CSharp.csproj|solutionrelative:assets\\camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MedkitPref.cs",
+              "DocumentMoniker": "G:\\Unity\\Projects\\Ninja\\Assets\\MedkitPref.cs",
+              "RelativeDocumentMoniker": "Assets\\MedkitPref.cs",
+              "ToolTip": "G:\\Unity\\Projects\\Ninja\\Assets\\MedkitPref.cs",
+              "RelativeToolTip": "Assets\\MedkitPref.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T19:18:49.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EnemySpawn.cs",
+              "DocumentMoniker": "G:\\Unity\\Projects\\Ninja\\Assets\\EnemySpawn.cs",
+              "RelativeDocumentMoniker": "Assets\\EnemySpawn.cs",
+              "ToolTip": "G:\\Unity\\Projects\\Ninja\\Assets\\EnemySpawn.cs",
+              "RelativeToolTip": "Assets\\EnemySpawn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T18:59:19.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Game.cs",
+              "DocumentMoniker": "G:\\Unity\\Projects\\Ninja\\Assets\\Game.cs",
+              "RelativeDocumentMoniker": "Assets\\Game.cs",
+              "ToolTip": "G:\\Unity\\Projects\\Ninja\\Assets\\Game.cs",
+              "RelativeToolTip": "Assets\\Game.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAA4wGQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T18:58:10.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "G:\\Unity\\Projects\\Ninja\\Assets\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Enemy.cs",
+              "ToolTip": "G:\\Unity\\Projects\\Ninja\\Assets\\Enemy.cs",
+              "RelativeToolTip": "Assets\\Enemy.cs",
+              "ViewState": "AgIAAI8AAAAAAAAAAAAAwKIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T18:57:38.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Player.cs",
+              "DocumentMoniker": "G:\\Unity\\Projects\\Ninja\\Assets\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Player.cs",
+              "ToolTip": "G:\\Unity\\Projects\\Ninja\\Assets\\Player.cs",
+              "RelativeToolTip": "Assets\\Player.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAADwvzsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T18:50:51.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Camera.cs",
+              "DocumentMoniker": "G:\\Unity\\Projects\\Ninja\\Assets\\Camera.cs",
+              "RelativeDocumentMoniker": "Assets\\Camera.cs",
+              "ToolTip": "G:\\Unity\\Projects\\Ninja\\Assets\\Camera.cs",
+              "RelativeToolTip": "Assets\\Camera.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T18:49:42.945Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 59,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
